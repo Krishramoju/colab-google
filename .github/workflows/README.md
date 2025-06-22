@@ -1,1 +1,1 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishramoju/colab-google/blob/main/iris_eda.ipynb)
+https://colab.research.google.com/drive/1Q9TcMJqHDrSS_F29pwZAWOhA1jlKA1C0?usp=sharing
